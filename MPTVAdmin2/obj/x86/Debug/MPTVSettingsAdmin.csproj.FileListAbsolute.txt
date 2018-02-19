@@ -89,3 +89,17 @@ C:\Users\piero.tenace.APM\Copy\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\M
 C:\Users\piero.tenace.APM\Copy\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.pdb
 C:\Users\piero.tenace.APM\Copy\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.exe.manifest
 C:\Users\piero.tenace.APM\Copy\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.application
+C:\Users\piero.tenace.APM\Documents\GitHub\htpcitalia_mptvSettingsAdmin\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.exe.config
+C:\Users\piero.tenace.APM\Documents\GitHub\htpcitalia_mptvSettingsAdmin\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.exe
+C:\Users\piero.tenace.APM\Documents\GitHub\htpcitalia_mptvSettingsAdmin\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.pdb
+C:\Users\piero.tenace.APM\Documents\GitHub\htpcitalia_mptvSettingsAdmin\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.exe.manifest
+C:\Users\piero.tenace.APM\Documents\GitHub\htpcitalia_mptvSettingsAdmin\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.application
+C:\Users\piero.tenace.APM\Documents\GitHub\htpcitalia_mptvSettingsAdmin\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.exe
+C:\Users\piero.tenace.APM\Documents\GitHub\htpcitalia_mptvSettingsAdmin\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.pdb
+C:\Users\piero.tenace.APM\Documents\GitHub\htpcitalia_mptvSettingsAdmin\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.csprojResolveAssemblyReference.cache
+C:\Users\piero.tenace.APM\Documents\GitHub\htpcitalia_mptvSettingsAdmin\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.ExtraSettings.resources
+C:\Users\piero.tenace.APM\Documents\GitHub\htpcitalia_mptvSettingsAdmin\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.frmMain.resources
+C:\Users\piero.tenace.APM\Documents\GitHub\htpcitalia_mptvSettingsAdmin\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.Properties.Resources.resources
+C:\Users\piero.tenace.APM\Documents\GitHub\htpcitalia_mptvSettingsAdmin\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.csproj.GenerateResource.Cache
+C:\Users\piero.tenace.APM\Documents\GitHub\htpcitalia_mptvSettingsAdmin\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.exe.manifest
+C:\Users\piero.tenace.APM\Documents\GitHub\htpcitalia_mptvSettingsAdmin\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.application

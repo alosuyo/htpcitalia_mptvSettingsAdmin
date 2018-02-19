@@ -44,11 +44,11 @@ namespace MPTVSettingsAdmin.Classes
                 line = reader.ReadLine();
                 if (line.Contains("SERVICE")) {
                     //Look for the file between "BOUQUET" and "ORDER"
-                    start = line.IndexOf(":u") + 1 ; // + length Bouquet
+                    start = line.IndexOf("u") - 1 ; // + length Bouquet
                     stop = line.Length;
                     
                     bouquet = ((line.Substring(start, stop - start)).Trim()).Replace("\"", "");
-
+                    bouquet = bouquet.Replace(" ORDER BY bouquet", "");
                     Group group = new Group();
                     group.FileName = bouquet;
                     group.Name = bouquet.Replace("userbouquet.", "");
