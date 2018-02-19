@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\bin\Release\MPTVAdmin2.exe.manifest
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\bin\Release\MPTVAdmin2.application
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\bin\Release\MPTVAdmin2.exe
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\bin\Release\MPTVAdmin2.pdb
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Release\MPTVAdmin2.frmMain.resources
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Release\MPTVAdmin2.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Release\MPTVAdmin2.exe.manifest
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Release\MPTVAdmin2.application
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Release\MPTVAdmin2.exe
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Release\MPTVAdmin2.pdb

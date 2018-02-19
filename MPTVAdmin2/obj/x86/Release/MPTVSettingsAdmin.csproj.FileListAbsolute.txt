@@ -1,0 +1,14 @@
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Release\MPTVSettingsAdmin.exe.config
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Release\MPTVSettingsAdmin.exe.manifest
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Release\MPTVSettingsAdmin.application
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Release\MPTVSettingsAdmin.exe
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Release\MPTVSettingsAdmin.pdb
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Release\MySql.Data.dll
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Release\MPTVSettingsAdmin.ExtraSettings.resources
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Release\MPTVSettingsAdmin.frmMain.resources
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Release\MPTVSettingsAdmin.Properties.Resources.resources
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Release\MPTVSettingsAdmin.csproj.GenerateResource.Cache
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Release\MPTVSettingsAdmin.exe.manifest
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Release\MPTVSettingsAdmin.application
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Release\MPTVSettingsAdmin.exe
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Release\MPTVSettingsAdmin.pdb

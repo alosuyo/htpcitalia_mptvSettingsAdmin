@@ -1,0 +1,26 @@
+D:\Documents\MPTVAdmin2\MPTVAdmin2\MPTVAdmin2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\MPTVAdmin2\MPTVAdmin2\MPTVAdmin2\obj\x86\Debug\MPTVAdmin2.frmMain.resources
+D:\Documents\MPTVAdmin2\MPTVAdmin2\MPTVAdmin2\obj\x86\Debug\MPTVAdmin2.Properties.Resources.resources
+D:\Documents\MPTVAdmin2\MPTVAdmin2\MPTVAdmin2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\MPTVAdmin2\MPTVAdmin2\MPTVAdmin2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\MPTVAdmin2\MPTVAdmin2\MPTVAdmin2\bin\Debug\MPTVAdmin2.exe
+D:\Documents\MPTVAdmin2\MPTVAdmin2\MPTVAdmin2\bin\Debug\MPTVAdmin2.pdb
+D:\Documents\MPTVAdmin2\MPTVAdmin2\MPTVAdmin2\obj\x86\Debug\MPTVAdmin2.exe
+D:\Documents\MPTVAdmin2\MPTVAdmin2\MPTVAdmin2\obj\x86\Debug\MPTVAdmin2.pdb
+D:\Documents\MPTVAdmin2\MPTVAdmin2\MPTVAdmin2\bin\Debug\MPTVAdmin2.exe.manifest
+D:\Documents\MPTVAdmin2\MPTVAdmin2\MPTVAdmin2\bin\Debug\MPTVAdmin2.application
+D:\Documents\MPTVAdmin2\MPTVAdmin2\MPTVAdmin2\obj\x86\Debug\MPTVAdmin2.exe.manifest
+D:\Documents\MPTVAdmin2\MPTVAdmin2\MPTVAdmin2\obj\x86\Debug\MPTVAdmin2.application
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVAdmin2.exe
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVAdmin2.pdb
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVAdmin2.exe.manifest
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVAdmin2.application
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVAdmin2.exe
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVAdmin2.pdb
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVAdmin2.frmMain.resources
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVAdmin2.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVAdmin2.exe.manifest
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVAdmin2.application

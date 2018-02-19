@@ -1,0 +1,91 @@
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.frmMain.resources
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVAdmin2.exe
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVAdmin2.pdb
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVAdmin2.exe.manifest
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVAdmin2.application
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVAdmin2.exe
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVAdmin2.pdb
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVAdmin2.exe.manifest
+C:\Documents and Settings\Administrator\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVAdmin2.application
+C:\Users\piero.tenace\Desktop\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.exe.manifest
+C:\Users\piero.tenace\Desktop\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.application
+C:\Users\piero.tenace\Desktop\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.exe
+C:\Users\piero.tenace\Desktop\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.pdb
+C:\Users\piero.tenace\Desktop\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MySql.Data.dll
+C:\Users\piero.tenace\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\piero.tenace\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.ExtraSettings.resources
+C:\Users\piero.tenace\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.frmMain.resources
+C:\Users\piero.tenace\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.Properties.Resources.resources
+C:\Users\piero.tenace\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\piero.tenace\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\piero.tenace\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.exe.manifest
+C:\Users\piero.tenace\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.application
+C:\Users\piero.tenace\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.exe
+C:\Users\piero.tenace\Desktop\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.pdb
+C:\My Dropbox\My Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.exe
+C:\My Dropbox\My Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.pdb
+C:\My Dropbox\My Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.exe.manifest
+C:\My Dropbox\My Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.application
+C:\My Dropbox\My Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.exe
+C:\My Dropbox\My Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.pdb
+C:\My Dropbox\My Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My Dropbox\My Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.ExtraSettings.resources
+C:\My Dropbox\My Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.frmMain.resources
+C:\My Dropbox\My Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.Properties.Resources.resources
+C:\My Dropbox\My Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\My Dropbox\My Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\My Dropbox\My Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.exe.manifest
+C:\My Dropbox\My Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.application
+C:\Users\PIERO\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.exe
+C:\Users\PIERO\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.pdb
+C:\Users\PIERO\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.exe.manifest
+C:\Users\PIERO\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.application
+C:\Users\PIERO\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.exe
+C:\Users\PIERO\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.pdb
+C:\Users\PIERO\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PIERO\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.ExtraSettings.resources
+C:\Users\PIERO\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.frmMain.resources
+C:\Users\PIERO\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.Properties.Resources.resources
+C:\Users\PIERO\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PIERO\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PIERO\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.exe.manifest
+C:\Users\PIERO\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.application
+C:\Users\PIERO\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.exe.config
+C:\Users\PIERO\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\PIERO\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\My Dropbox\My Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.exe.config
+C:\My Dropbox\My Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MySql.Data.dll
+C:\My Dropbox\My Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\My Dropbox\My Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.exe.config
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.exe
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.pdb
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.exe.manifest
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.application
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.exe
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.pdb
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MySql.Data.dll
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.ExtraSettings.resources
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.frmMain.resources
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.Properties.Resources.resources
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.csproj.GenerateResource.Cache
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.exe.manifest
+C:\My Dropbox1\My Dropbox\Dropbox\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.application
+C:\Users\piero.tenace.APM\Copy\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.exe.config
+C:\Users\piero.tenace.APM\Copy\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.exe
+C:\Users\piero.tenace.APM\Copy\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.pdb
+C:\Users\piero.tenace.APM\Copy\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.csprojResolveAssemblyReference.cache
+C:\Users\piero.tenace.APM\Copy\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.ExtraSettings.resources
+C:\Users\piero.tenace.APM\Copy\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.frmMain.resources
+C:\Users\piero.tenace.APM\Copy\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.Properties.Resources.resources
+C:\Users\piero.tenace.APM\Copy\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.csproj.GenerateResource.Cache
+C:\Users\piero.tenace.APM\Copy\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.exe.manifest
+C:\Users\piero.tenace.APM\Copy\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.application
+C:\Users\piero.tenace.APM\Copy\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.exe
+C:\Users\piero.tenace.APM\Copy\Progetti\MPTVAdmin2-source\MPTVAdmin2\bin\Debug\MPTVSettingsAdmin.pdb
+C:\Users\piero.tenace.APM\Copy\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.exe.manifest
+C:\Users\piero.tenace.APM\Copy\Progetti\MPTVAdmin2-source\MPTVAdmin2\obj\x86\Debug\MPTVSettingsAdmin.application
